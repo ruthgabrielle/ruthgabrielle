@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/ruthgabrielle/ruthgabrielle/blob/output/github-user-contribution.svg)
 <!--
 **ruthgabrielle/ruthgabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
