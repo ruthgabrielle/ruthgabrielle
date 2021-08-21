@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### 📫 How to reach me: <br />
+ruthfgms@gmail.com <br />
+https://br.linkedin.com/in/ruth-gabrielle-ferreira-gomes-27050b17b
 
 <!--
 **ruthgabrielle/ruthgabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
