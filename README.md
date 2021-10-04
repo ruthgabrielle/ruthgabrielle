@@ -22,9 +22,7 @@
   ##
   
   <div> 
-  <a href="https://instagram.com/ruthgabriellee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ruthfgms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <a href="https://instagram.com/ruthgabriellee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 </div>
 <!--
 **ruthgabrielle/ruthgabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
